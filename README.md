@@ -20,8 +20,8 @@ Make sure the following are installed:
 ## 2. Clone the Project
 
 ```bash
-git clone https://github.com/your-repository.git
-cd your-repository
+git clone https://github.com/AliKanTR/taskify.git
+cd taskify
 ```
 
 ---
